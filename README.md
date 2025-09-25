@@ -35,16 +35,21 @@ MED_Foward_&_Backward_Stage/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Mandla78/Dynamic-Programming-MED_Method-.git
-cd Dynamic-Programming-MED_Method-
+cd Dynamic-Programming-MED_Method-  
 
-// Compile the code (using g++)
+// Compile the code (using g++) on Windows CMD or PowerShel 
 g++ src/*.cpp -o med
-
 //Run the program
+med
+
+// Compile the code (using g++) On Unix/Linux or Mac (or Git Bash):
+g++ src/*.cpp -o med
+// Run the program
 ./med
+
 
