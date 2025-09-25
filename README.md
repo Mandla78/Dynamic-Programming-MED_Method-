@@ -37,7 +37,7 @@ MED_Foward_&_Backward_Stage/
 
 ##  How to Run
 
-### 1. Clone the repository
+// Clone the repository
 ```bash
 git clone https://github.com/Mandla78/Dynamic-Programming-MED_Method-.git
 cd Dynamic-Programming-MED_Method-  
